@@ -1,0 +1,133 @@
+{
+  "hash": "9c782253",
+  "configHash": "71b46c76",
+  "lockfileHash": "e3b0c442",
+  "browserHash": "2a7cdae3",
+  "optimized": {
+    "@chakra-ui/avatar": {
+      "src": "../../node_modules/@chakra-ui/avatar/dist/index.mjs",
+      "file": "@chakra-ui_avatar.js",
+      "fileHash": "42b5fc92",
+      "needsInterop": false
+    },
+    "@chakra-ui/image": {
+      "src": "../../node_modules/@chakra-ui/image/dist/index.mjs",
+      "file": "@chakra-ui_image.js",
+      "fileHash": "6831c13d",
+      "needsInterop": false
+    },
+    "@chakra-ui/layout": {
+      "src": "../../node_modules/@chakra-ui/layout/dist/index.mjs",
+      "file": "@chakra-ui_layout.js",
+      "fileHash": "d37eb233",
+      "needsInterop": false
+    },
+    "@chakra-ui/menu": {
+      "src": "../../node_modules/@chakra-ui/menu/dist/index.mjs",
+      "file": "@chakra-ui_menu.js",
+      "fileHash": "61916085",
+      "needsInterop": false
+    },
+    "@chakra-ui/portal": {
+      "src": "../../node_modules/@chakra-ui/portal/dist/index.mjs",
+      "file": "@chakra-ui_portal.js",
+      "fileHash": "e202d93d",
+      "needsInterop": false
+    },
+    "@chakra-ui/react": {
+      "src": "../../node_modules/@chakra-ui/react/dist/index.mjs",
+      "file": "@chakra-ui_react.js",
+      "fileHash": "5971bb90",
+      "needsInterop": false
+    },
+    "@chakra-ui/theme-tools": {
+      "src": "../../node_modules/@chakra-ui/theme-tools/dist/index.mjs",
+      "file": "@chakra-ui_theme-tools.js",
+      "fileHash": "8193438c",
+      "needsInterop": false
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "e2065e1e",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "715acf9e",
+      "needsInterop": true
+    },
+    "react-icons/bs": {
+      "src": "../../node_modules/react-icons/bs/index.mjs",
+      "file": "react-icons_bs.js",
+      "fileHash": "3bb9023c",
+      "needsInterop": false
+    },
+    "react-icons/cg": {
+      "src": "../../node_modules/react-icons/cg/index.mjs",
+      "file": "react-icons_cg.js",
+      "fileHash": "5eb20127",
+      "needsInterop": false
+    },
+    "react-router": {
+      "src": "../../node_modules/react-router/dist/index.js",
+      "file": "react-router.js",
+      "fileHash": "a1eee190",
+      "needsInterop": false
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "6d2cef16",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-AVCQBZXX": {
+      "file": "chunk-AVCQBZXX.js"
+    },
+    "chunk-HH2LLOOZ": {
+      "file": "chunk-HH2LLOOZ.js"
+    },
+    "chunk-B2366KLS": {
+      "file": "chunk-B2366KLS.js"
+    },
+    "chunk-A2ITCFRA": {
+      "file": "chunk-A2ITCFRA.js"
+    },
+    "chunk-FY7XTEGT": {
+      "file": "chunk-FY7XTEGT.js"
+    },
+    "chunk-TEEIS6KB": {
+      "file": "chunk-TEEIS6KB.js"
+    },
+    "chunk-WXSKVWTA": {
+      "file": "chunk-WXSKVWTA.js"
+    },
+    "chunk-CPOFKR7T": {
+      "file": "chunk-CPOFKR7T.js"
+    },
+    "chunk-EK3S4YIL": {
+      "file": "chunk-EK3S4YIL.js"
+    },
+    "chunk-5M3UJAEA": {
+      "file": "chunk-5M3UJAEA.js"
+    },
+    "chunk-PPUG7X4A": {
+      "file": "chunk-PPUG7X4A.js"
+    },
+    "chunk-VSHG74IK": {
+      "file": "chunk-VSHG74IK.js"
+    },
+    "chunk-4JI2AD7N": {
+      "file": "chunk-4JI2AD7N.js"
+    },
+    "chunk-BHDLHQY3": {
+      "file": "chunk-BHDLHQY3.js"
+    },
+    "chunk-CEQRFMJQ": {
+      "file": "chunk-CEQRFMJQ.js"
+    }
+  }
+}
